@@ -2,5 +2,5 @@ firstname = "vijayakumar"
 lastname = "kannan"
 city = "wakra"
 
-puts "my name is: @@firstname+@@lastname"
-puts "i live in @@city"
+puts "my name is:" + firstname + "\s" + lastname
+puts "i live in " + city
