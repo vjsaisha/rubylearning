@@ -1,6 +1,8 @@
 firstname = "vijayakumar"
 lastname = "kannan"
 city = "wakra"
+native = "india"
 
 puts "my name is:" + firstname + "\s" + lastname
 puts "i live in " + city
+puts "my native is" + native
